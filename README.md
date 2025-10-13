@@ -4,12 +4,11 @@ EcoKMER is a Shiny web application for ecological data analysis and visualizatio
 
 ## Key Features:
 
-- Physics-informed Machine Learning analysis of multiomics data.
-- Plotting and analysis of protein interaction networks.
+- 
 
 ## Use Cases:
 
-PIMLomics uses the Physics-informed Machine Learning package CellBox to guide investigations into complex protein interactions influenced by cell responses to probing perturbations.
+EcoKMER ...
 
 ### Prerequisites
 
