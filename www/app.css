@@ -1,0 +1,38 @@
+/* Consolidated filter + slider + multi-select styling */
+.filter-block {
+    transition: background 0.15s ease-in;
+}
+
+.filter-block:hover {
+    background: #f9f9f9;
+}
+
+.filter-block-slider .irs,
+.filter-block-slider .irs-with-grid {
+    width: 100% !important;
+}
+
+.filter-block-other .selectize-control,
+.filter-block-other .bootstrap-select {
+    max-width: 300px;
+}
+
+.filter-block label {
+    font-size: 12.5px;
+    letter-spacing: .3px;
+}
+
+.slider-range-labels {
+    font-size: 11px;
+    margin-top: 2px;
+    font-family: monospace;
+}
+
+/* Multi-select height normalization */
+.selectize-control.multi .selectize-input>div {
+    line-height: 1.1;
+}
+
+.selectize-dropdown {
+    font-size: 13px;
+}

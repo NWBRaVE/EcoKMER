@@ -1,0 +1,72 @@
+2025-09-11 07:19:07,164 - __main__ - INFO - Successfully authenticated with DataFed.
+2025-09-11 07:19:07,167 - __main__ - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 07:19:07,365 - __main__ - INFO - Set DataFed context to: p/brave
+2025-09-11 07:19:11,251 - __main__ - INFO - Retrieved 352 items from collection c/522418931
+2025-09-11 07:19:14,620 - __main__ - INFO - Retrieved 302 items from collection c/525611220
+2025-09-11 07:19:16,713 - __main__ - INFO - Retrieved 196 items from collection c/525611195
+2025-09-11 07:19:17,758 - __main__ - INFO - Retrieved 98 items from collection c/525611219
+2025-09-11 07:19:19,006 - __main__ - INFO - Retrieved 101 items from collection c/525611221
+2025-09-11 07:20:32,565 - __main__ - INFO - Saved 352 records from c/522418931 to data/downloads/c_522418931_records.csv
+2025-09-11 07:21:35,432 - __main__ - INFO - Saved 302 records from c/525611220 to data/downloads/c_525611220_records.csv
+2025-09-11 07:22:16,491 - __main__ - INFO - Saved 196 records from c/525611195 to data/downloads/c_525611195_records.csv
+2025-09-11 07:22:37,029 - __main__ - INFO - Saved 98 records from c/525611219 to data/downloads/c_525611219_records.csv
+2025-09-11 07:22:57,911 - __main__ - INFO - Saved 101 records from c/525611221 to data/downloads/c_525611221_records.csv
+2025-09-11 07:22:57,949 - __main__ - INFO - Created merged CSV with 1049 records at data/downloads/merged_records.csv
+2025-09-11 07:25:14,793 - root - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 07:25:14,993 - root - INFO - Set DataFed context to: p/brave
+2025-09-11 07:26:04,997 - root - ERROR - Error during search for '20241118-PNNL-NRB-Seq176_preprocessed': Timeout!!!!!!!!!
+2025-09-11 07:26:04,997 - root - ERROR - Error during search for '20241118-PNNL-NRB-Seq175_preprocessed': Timeout!!!!!!!!!
+2025-09-11 07:26:04,998 - root - WARNING - No records found for file name '20241118-PNNL-NRB-Seq176_preprocessed'.
+2025-09-11 07:26:04,998 - root - WARNING - No records found for file name '20241118-PNNL-NRB-Seq175_preprocessed'.
+2025-09-11 07:26:04,999 - root - INFO - All downloads completed.
+2025-09-11 07:29:45,483 - root - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 07:29:45,683 - root - INFO - Set DataFed context to: p/brave
+2025-09-11 07:30:35,686 - root - ERROR - Error during search for '20241118-PNNL-NRB-Seq175_preprocessed': Timeout!!!!!!!!!
+2025-09-11 07:30:35,687 - root - ERROR - Error during search for '20241118-PNNL-NRB-Seq176_preprocessed': Timeout!!!!!!!!!
+2025-09-11 07:30:35,687 - root - WARNING - No records found for file name '20241118-PNNL-NRB-Seq175_preprocessed'.
+2025-09-11 07:30:35,687 - root - WARNING - No records found for file name '20241118-PNNL-NRB-Seq176_preprocessed'.
+2025-09-11 07:30:35,689 - root - INFO - All downloads completed.
+2025-09-11 09:24:18,134 - __main__ - INFO - Successfully authenticated with DataFed.
+2025-09-11 09:24:18,135 - __main__ - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 09:24:18,336 - __main__ - INFO - Set DataFed context to: p/brave
+2025-09-11 09:24:22,141 - __main__ - INFO - Retrieved 352 items from collection c/522418931
+2025-09-11 09:24:25,732 - __main__ - INFO - Retrieved 302 items from collection c/525611220
+2025-09-11 09:24:27,840 - __main__ - INFO - Retrieved 196 items from collection c/525611195
+2025-09-11 09:24:28,889 - __main__ - INFO - Retrieved 98 items from collection c/525611219
+2025-09-11 09:24:30,145 - __main__ - INFO - Retrieved 101 items from collection c/525611221
+2025-09-11 09:25:49,419 - root - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 09:25:49,618 - root - INFO - Set DataFed context to: p/brave
+2025-09-11 09:25:50,432 - root - INFO - Downloaded 'c54c4e45-11da-4584-afe8-3ba32f312adf/thrust3_sequencing/reads/20241119/20241118-PNNL-NRB-Seq176_preprocessed.fastq.gz' to 'data/downloads/20241118-PNNL-NRB-Seq176_preprocessed.fastq.gz'.
+2025-09-11 09:25:50,433 - root - INFO - All downloads completed.
+2025-09-11 09:27:08,336 - root - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 09:27:08,538 - root - INFO - Set DataFed context to: p/brave
+2025-09-11 09:27:58,541 - root - ERROR - Error during search for '20241118-PNNL-NRB-Seq175_preprocessed': Timeout!!!!!!!!!
+2025-09-11 09:27:58,541 - root - WARNING - No records found for file name '20241118-PNNL-NRB-Seq175_preprocessed'.
+2025-09-11 09:27:58,542 - root - ERROR - Error during search for '20241118-PNNL-NRB-Seq174_preprocessed': Timeout!!!!!!!!!
+2025-09-11 09:27:58,542 - root - WARNING - No records found for file name '20241118-PNNL-NRB-Seq174_preprocessed'.
+2025-09-11 09:27:58,543 - root - INFO - All downloads completed.
+2025-09-11 09:28:29,875 - root - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 09:28:30,076 - root - INFO - Set DataFed context to: p/brave
+2025-09-11 09:28:30,912 - root - INFO - Downloaded 'c54c4e45-11da-4584-afe8-3ba32f312adf/thrust3_sequencing/reads/20241119/20241118-PNNL-NRB-Seq175_preprocessed.fastq.gz' to 'data/downloads/20241118-PNNL-NRB-Seq175_preprocessed.fastq.gz'.
+2025-09-11 09:28:30,913 - root - INFO - All downloads completed.
+2025-09-11 10:17:59,878 - root - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 10:18:00,078 - root - INFO - Set DataFed context to: p/brave
+2025-09-11 10:18:00,892 - root - INFO - Downloaded 'c54c4e45-11da-4584-afe8-3ba32f312adf/thrust3_sequencing/reads/20241119/20241118-PNNL-NRB-Seq171_preprocessed.fastq.gz' to 'data/downloads/20241118-PNNL-NRB-Seq171_preprocessed.fastq.gz'.
+2025-09-11 10:18:01,732 - root - INFO - Downloaded 'c54c4e45-11da-4584-afe8-3ba32f312adf/thrust3_sequencing/reads/20241119/20241118-PNNL-NRB-Seq172_preprocessed.fastq.gz' to 'data/downloads/20241118-PNNL-NRB-Seq172_preprocessed.fastq.gz'.
+2025-09-11 10:18:01,732 - root - INFO - All downloads completed.
+2025-09-11 17:14:11,435 - __main__ - INFO - Successfully authenticated with DataFed.
+2025-09-11 17:14:11,437 - __main__ - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-09-11 17:14:11,636 - __main__ - INFO - Set DataFed context to: p/brave
+2025-09-11 17:14:15,419 - __main__ - INFO - Retrieved 353 items from collection c/522418931
+2025-09-11 17:14:18,794 - __main__ - INFO - Retrieved 302 items from collection c/525611220
+2025-09-11 17:14:20,990 - __main__ - INFO - Retrieved 196 items from collection c/525611195
+2025-09-11 17:14:22,035 - __main__ - INFO - Retrieved 98 items from collection c/525611219
+2025-09-11 17:14:23,285 - __main__ - INFO - Retrieved 101 items from collection c/525611221
+2025-09-11 17:15:37,238 - __main__ - INFO - Saved 353 records from c/522418931 to data/downloads/c_522418931_records.csv
+2025-09-11 17:16:40,039 - __main__ - INFO - Saved 302 records from c/525611220 to data/downloads/c_525611220_records.csv
+2025-09-11 17:17:20,894 - __main__ - INFO - Saved 196 records from c/525611195 to data/downloads/c_525611195_records.csv
+2025-09-11 17:17:42,007 - __main__ - INFO - Saved 98 records from c/525611219 to data/downloads/c_525611219_records.csv
+2025-09-11 17:18:02,868 - __main__ - INFO - Saved 101 records from c/525611221 to data/downloads/c_525611221_records.csv
+2025-09-11 17:18:02,913 - __main__ - INFO - Created merged CSV with 1050 records at data/downloads/merged_records.csv
+2025-09-23 21:43:17,907 - root - ERROR - DF_USER and DF_PASS environment variables must be set
+2025-09-23 21:47:29,273 - root - ERROR - DF_USER and DF_PASS environment variables must be set

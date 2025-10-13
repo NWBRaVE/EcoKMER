@@ -1,0 +1,6 @@
+# Core Python dependencies for DataFed-enabled features
+# Install into a virtual environment (see README snippet added by helper)
+datafed>=2.2.0
+pandas>=2.0.0
+tqdm>=4.60.0
+openpyxl>=3.1.0

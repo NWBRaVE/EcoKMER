@@ -1,0 +1,151 @@
+2025-08-14 13:52:51,074 - ERROR - Error during search for 'BF-003': Timeout!!!!!!!!!
+2025-08-14 13:52:51,074 - ERROR - Error during search for 'BF-004': Timeout!!!!!!!!!
+2025-08-14 13:52:51,075 - ERROR - Error during search for 'BF-001': Timeout!!!!!!!!!
+2025-08-14 13:52:51,075 - ERROR - Error during search for 'BF-002': Timeout!!!!!!!!!
+2025-08-14 13:52:51,075 - WARNING - No records found for file name 'BF-003'.
+2025-08-14 13:52:51,075 - WARNING - No records found for file name 'BF-004'.
+2025-08-14 13:52:51,075 - WARNING - No records found for file name 'BF-001'.
+2025-08-14 13:52:51,076 - WARNING - No records found for file name 'BF-002'.
+2025-08-14 13:53:41,078 - ERROR - Error during search for 'BF-006': Timeout!!!!!!!!!
+2025-08-14 13:53:41,079 - ERROR - Error during search for 'BF-005': Timeout!!!!!!!!!
+2025-08-14 13:53:41,079 - WARNING - No records found for file name 'BF-006'.
+2025-08-14 13:53:41,079 - WARNING - No records found for file name 'BF-005'.
+2025-08-14 13:53:41,080 - INFO - All downloads completed.
+2025-08-14 14:03:07,491 - ERROR - Error during search for 'BF-001': Timeout!!!!!!!!!
+2025-08-14 14:03:07,491 - ERROR - Error during search for 'BF-003': Timeout!!!!!!!!!
+2025-08-14 14:03:07,491 - ERROR - Error during search for 'BF-004': Timeout!!!!!!!!!
+2025-08-14 14:03:07,491 - ERROR - Error during search for 'BF-002': Timeout!!!!!!!!!
+2025-08-14 14:03:07,491 - WARNING - No records found for file name 'BF-001'.
+2025-08-14 14:03:07,491 - WARNING - No records found for file name 'BF-003'.
+2025-08-14 14:03:07,491 - WARNING - No records found for file name 'BF-004'.
+2025-08-14 14:03:07,491 - WARNING - No records found for file name 'BF-002'.
+2025-08-14 14:03:38,842 - ERROR - Error during search for 'BF-004': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:03:38,843 - WARNING - No records found for file name 'BF-004'.
+2025-08-14 14:03:39,043 - ERROR - Error during search for 'BF-003': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:03:39,043 - WARNING - No records found for file name 'BF-003'.
+2025-08-14 14:03:57,493 - ERROR - Error during search for 'BF-006': Timeout!!!!!!!!!
+2025-08-14 14:03:57,493 - ERROR - Error during search for 'BF-005': Timeout!!!!!!!!!
+2025-08-14 14:03:57,493 - WARNING - No records found for file name 'BF-006'.
+2025-08-14 14:03:57,493 - WARNING - No records found for file name 'BF-005'.
+2025-08-14 14:13:15,329 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:13:15,544 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:14:05,551 - ERROR - Error during search for 'BF-003': Timeout!!!!!!!!!
+2025-08-14 14:14:05,551 - ERROR - Error during search for 'BF-002': Timeout!!!!!!!!!
+2025-08-14 14:14:05,551 - ERROR - Error during search for 'BF-004': Timeout!!!!!!!!!
+2025-08-14 14:14:05,551 - WARNING - No records found for file name 'BF-003'.
+2025-08-14 14:14:05,552 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Timeout!!!!!!!!!
+2025-08-14 14:14:05,552 - WARNING - No records found for file name 'BF-002'.
+2025-08-14 14:14:05,552 - WARNING - No records found for file name 'BF-004'.
+2025-08-14 14:14:05,553 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:14:05,730 - ERROR - Error during search for 'BF-005': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:14:05,731 - WARNING - No records found for file name 'BF-005'.
+2025-08-14 14:14:05,782 - ERROR - Error during search for 'BF-006': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:14:05,782 - WARNING - No records found for file name 'BF-006'.
+2025-08-14 14:14:05,783 - INFO - All downloads completed.
+2025-08-14 14:15:04,284 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:15:04,484 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:15:54,492 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Timeout!!!!!!!!!
+2025-08-14 14:15:54,492 - ERROR - Error during search for 'BF-002': Timeout!!!!!!!!!
+2025-08-14 14:15:54,492 - ERROR - Error during search for 'BF-004': Timeout!!!!!!!!!
+2025-08-14 14:15:54,492 - ERROR - Error during search for 'BF-003': Timeout!!!!!!!!!
+2025-08-14 14:15:54,493 - WARNING - No records found for file name 'BF-002'.
+2025-08-14 14:15:54,493 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:15:54,493 - WARNING - No records found for file name 'BF-004'.
+2025-08-14 14:15:54,493 - WARNING - No records found for file name 'BF-003'.
+2025-08-14 14:15:54,667 - ERROR - Error during search for 'BF-006': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:15:54,667 - WARNING - No records found for file name 'BF-006'.
+2025-08-14 14:15:54,720 - ERROR - Error during search for 'BF-005': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:15:54,720 - WARNING - No records found for file name 'BF-005'.
+2025-08-14 14:15:54,721 - INFO - All downloads completed.
+2025-08-14 14:17:29,510 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:17:29,711 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:17:29,965 - ERROR - Error during search for 'BF-004': 'utf-8' codec can't decode byte 0x88 in position 43: invalid start byte
+2025-08-14 14:17:29,966 - WARNING - No records found for file name 'BF-004'.
+2025-08-14 14:17:29,966 - ERROR - Error during search for 'BF-005': 'utf-8' codec can't decode byte 0x8b in position 2: invalid start byte
+2025-08-14 14:17:29,967 - WARNING - No records found for file name 'BF-005'.
+2025-08-14 14:17:29,967 - ERROR - Error during search for 'BF-006': 'utf-8' codec can't decode byte 0x88 in position 73: invalid start byte
+2025-08-14 14:17:29,967 - WARNING - No records found for file name 'BF-006'.
+2025-08-14 14:18:19,718 - ERROR - Error during search for 'BF-002': 'utf-8' codec can't decode byte 0x8b in position 2: invalid start byte
+2025-08-14 14:18:19,719 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:18:19,719 - WARNING - No records found for file name 'BF-002'.
+2025-08-14 14:18:19,719 - ERROR - Error during search for 'BF-003': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:18:19,719 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:18:19,720 - WARNING - No records found for file name 'BF-003'.
+2025-08-14 14:18:19,721 - INFO - All downloads completed.
+2025-08-14 14:19:21,274 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:19:21,482 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:19:21,685 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Alias 'a/u:dleach:c' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:19:21,686 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:19:21,687 - INFO - All downloads completed.
+2025-08-14 14:24:55,843 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:24:56,043 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:24:56,248 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': get
+2025-08-14 14:24:56,248 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:24:56,249 - INFO - All downloads completed.
+2025-08-14 14:29:14,092 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:29:14,293 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:29:14,300 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': name 'filename' is not defined
+2025-08-14 14:29:14,300 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:29:14,302 - INFO - All downloads completed.
+2025-08-14 14:30:02,793 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:30:02,992 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:30:02,999 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Invalid sort option.
+2025-08-14 14:30:03,000 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:30:03,000 - INFO - All downloads completed.
+2025-08-14 14:32:13,842 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:32:14,057 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:32:14,262 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Alias 'a/u:dleach:p' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:32:14,263 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:32:14,264 - INFO - All downloads completed.
+2025-08-14 14:32:58,838 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:32:59,039 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:32:59,239 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Alias 'a/u:dleach:p' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:32:59,239 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:32:59,240 - INFO - All downloads completed.
+2025-08-14 14:33:57,445 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:33:57,645 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:33:57,845 - ERROR - Error during search for '20240418-pnnl-nrb-seq11_preprocessed': Alias 'a/u:dleach:p' does not exist
+(source: dbPost:236 code:1)
+
+2025-08-14 14:33:57,845 - WARNING - No records found for file name '20240418-pnnl-nrb-seq11_preprocessed'.
+2025-08-14 14:33:57,845 - INFO - All downloads completed.
+2025-08-14 14:36:52,732 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:36:52,931 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:36:53,133 - INFO - All downloads completed.
+2025-08-14 14:38:47,824 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:38:48,023 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:38:48,225 - INFO - All downloads completed.
+2025-08-14 14:43:46,015 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:43:46,219 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:43:46,420 - INFO - All downloads completed.
+2025-08-14 14:45:56,376 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:45:56,575 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:45:56,777 - INFO - All downloads completed.
+2025-08-14 14:51:03,696 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:51:03,904 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:51:04,113 - INFO - All downloads completed.
+2025-08-14 14:53:45,588 - INFO - Set default Globus endpoint to UUID: 163ce71e-6199-11f0-99fe-0efa17cb03ab
+2025-08-14 14:53:45,788 - INFO - Set DataFed context to: p/brave
+2025-08-14 14:53:45,989 - INFO - All downloads completed.

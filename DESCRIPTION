@@ -1,0 +1,15 @@
+Package: ecokmer
+Type: Package
+Title: EcoKMER Shiny Application (Test Harness)
+Version: 0.0.0.9000
+Authors@R: person("EcoKMER","Team", role = c("aut","cre"))
+Description: Internal package wrapper to enable testthat smoke tests for the EcoKMER Shiny app without full packaging.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 4.1.0)
+Imports: shiny
+Suggests: testthat
+Config/testthat/edition: 3
