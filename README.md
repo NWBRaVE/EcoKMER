@@ -111,7 +111,7 @@ R -q -e 'testthat::test_dir("tests/testthat")'
 
 ## License
 
-EcoKMER made freely available under the terms of Simplified BSD license.
+EcoKMER is made freely available under the terms of Simplified BSD license.
 Copyright 2025 Battelle Memorial Institute
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
