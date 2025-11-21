@@ -2,6 +2,17 @@
 
 EcoKMER is a Shiny web application for ecological data analysis and visualization, featuring interactive maps, data processing tools, and Python integration for advanced analytics.
 
+## Key Features:
+
+- **Federated Metadata Exploration**: Query DataFed repositories to harmonize multi-lab metadata, filter interactively, then download only matching files via Globus
+- **Spatio-Temporal Visualization**: Interactive maps encode sample collection dates through color gradients, with user selected spatial filtering for identifying geographic and temporal patterns
+- **Dual-Mode Operation**: Online mode connects to live DataFed repositories; offline mode enables exploration of local metadata snapshots without network access
+
+## Use Cases:
+
+- **Selective Sample Retrieval**: Identify candidate samples from large-scale metagenomic collections by filtering metadata before downloading the selected sequence files
+- **Multi-Site Campaign Analysis**: Visualize spatial distribution and temporal trends across sampling sites, export filtered subsets for targeted analysis
+- **Offline Field Exploration**: Work with metadata snapshots at remote field stations, perform exploratory analyses without connectivity, synchronize with online repositories when returning to network access
 
 ### Prerequisites
 
