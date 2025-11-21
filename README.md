@@ -2,13 +2,6 @@
 
 EcoKMER is a Shiny web application for ecological data analysis and visualization, featuring interactive maps, data processing tools, and Python integration for advanced analytics.
 
-## Key Features:
-
-- 
-
-## Use Cases:
-
-EcoKMER ...
 
 ### Prerequisites
 
@@ -20,7 +13,7 @@ EcoKMER ...
 
 1. **Clone the repository**
    ```bash
-   git clone https://gitlab.pnnl.gov/nwbrave/thrust3/ecokmer.git
+   git clone [https://github.com/NWBRaVE/EcoKMER/ecokmer.git
    cd ecokmer
    ```
 
