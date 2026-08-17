@@ -140,3 +140,9 @@ under Contract DE-AC05-76RL01830
 ## Acknowledgments
 
 This work was supported by the NW-BRaVE for Biopreparedness project funded by the U. S. Department of Energy (DOE), Office of Science, Office of Biological and Environmental Research, under FWP 81832. A portion of this research was performed on a project award (Enhancing biopreparedness through a model system to understand the molecular mechanisms that lead to pathogenesis and disease transmission) from the Environmental Molecular Sciences Laboratory, a DOE Office of Science User Facility sponsored by the Biological and Environmental Research program under Contract No. DE-AC05-76RL01830. Pacific Northwest National Laboratory is a multi-program national laboratory operated by Battelle for the DOE under Contract DE-AC05-76RL01830. A portion of this paper was supported by the University of Colorado School of Medicine.
+
+## Citation
+
+George, August D., Leach, Damon T., Phillips, Conner W., Brown, Joshua S., Duncan, Juliette M., Nedved, Blake, Leiser, Owen P., Boise, Noelani R., Wu, Ruonan, Anderson, Lindsey N., Kuchar, Olga, Cheung, Margaret S., Pollock, David D., Widener, Patrick M., & Johnson, Connah G. (2026). EcoKMER: One-stop shop for spatio-temporal metagenomic exploration using DataFed. https://doi.org/10.2172/3412938
+
+
